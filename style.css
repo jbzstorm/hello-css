@@ -1,9 +1,22 @@
 h1{
-    color: red;
+    color: #1400ff;
+    font-size: 60px;
+}
+
+h1{
+    color:#c328e2
+}
+
+h2 {
+    color: #1e8bdf;
+}
+
+h3.barbacoa {
+    color:purple;
 }
 
 h3 {
-    color:purple;
+    color: orange;
 }
 
 p{
@@ -13,3 +26,8 @@ p{
 img {
     width: 250px;
 }
+
+ul li a {
+    color: green;
+}
+
